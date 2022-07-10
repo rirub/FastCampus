@@ -1,6 +1,6 @@
 {
   "Version": "2012-10-17",
-  "Statement": [
+  "Statement": [https://github.com/rirub/FastCampus/blob/main/Part4_Kubernetes/Chapter03/Ch03_05-csi-block-pv/iam-policy/%08ebs-csi-policy.json
     {
       "Effect": "Allow",
       "Action": [
